@@ -1,0 +1,38 @@
+img {
+  width: 300px;
+}
+body {
+  background-color: #ffd569;
+}
+button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px none;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 50px;
+  border-radius: 40px;
+}
+span {
+  color: #ffd569;
+}
+.fruitContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fruitsContainer {
+  display: flex;
+  justify-content: space-between;
+}
